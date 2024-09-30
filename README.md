@@ -15,6 +15,12 @@ O **Sistema de Gerenciamento de Pilotos de Fórmula E** foi desenvolvido com o o
 - **Curiosidades sobre Fórmula E**: Descubra fatos interessantes sobre a Fórmula E que destacam seu papel na promoção da sustentabilidade.
 - ** Sair: Finaliza o Programa
 
+- ![image](https://github.com/user-attachments/assets/62b6ab0a-440f-461b-ae6e-64100201d53f)
+- [Diagrama.pdf](https://github.com/user-attachments/files/17197124/Diagrama.pdf)
+
+
+
+
 ## 📋 Requisitos
 
 Antes de executar o projeto, certifique-se de que você possui os seguintes requisitos:
