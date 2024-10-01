@@ -71,4 +71,14 @@ A Fórmula E é uma categoria de automobilismo que utiliza carros elétricos, de
 - Pedro Josué RM: 554913
 - Mayla Maricato RM: 557754
 - Luciano Meriato RM: 554546
+
+## Link do Video Explicativo
+ 
+- https://drive.google.com/drive/folders/1Q3rRMaEz-rL6xC2aPal695HACSMOfFPV?usp=sharing
+
+## Link do Repositório 
+
+- https://github.com/DevRuanVieira/ChallengePY
+   
+
    
